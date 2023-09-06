@@ -1,6 +1,6 @@
 # Framework
 Framework is an older project originally written in .NET Framework 4.0. It served as a crucial toolkit during the pre-.NET Core era, offering custom versions of various commonly used tools that I employed in-house when mainstream alternatives weren't suitable. Though I've since moved on to newer technologies, I believe this project stands as a testament to my coding skills.
-Project Components
+
 ## Framework.Common
 
 **Framework.Common** houses my custom implementations of various common classes, including:
